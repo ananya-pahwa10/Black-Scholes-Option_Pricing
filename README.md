@@ -11,6 +11,18 @@ The goal of this project is to estimate the theoretical value of a European call
 - Historical volatility estimation
 - Option Greeks analysis
 
+## Key Concepts
+
+This project demonstrates several important concepts in quantitative finance:
+
+- Black–Scholes option pricing model
+- Historical volatility estimation
+- Log return calculation
+- Monte Carlo simulation for asset price modeling
+- Geometric Brownian Motion (GBM)
+- Option Greeks (Delta, Gamma, Vega, Theta)
+- Risk-neutral valuation
+
 ## Dataset
 
 Historical daily stock price data for **Reliance Industries Ltd.** was obtained from the National Stock Exchange (NSE).
