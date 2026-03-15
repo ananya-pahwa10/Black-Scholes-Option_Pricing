@@ -50,6 +50,14 @@ Monte Carlo Simulation Price: **₹75.84**
 
 The close agreement between these results validates the analytical pricing model.
 
+## Simulation Visualizations
+
+### Distribution of Simulated Stock Prices
+![Simulated Prices](outputs/simulated_stock_prices.png)
+
+### Distribution of Option Payoffs
+![Option Payoff](outputs/option_payoff_distribution.png)
+
 ## Project Structure
 
 Black-Scholes-Option_Pricing  
